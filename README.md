@@ -60,7 +60,7 @@
 <h2 align="center">🔗 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mashaole-letsoalo" target="_blank">
+  <a href="https://www.linkedin.com/in/mashaole-letsoalo" target="https://www.linkedin.com/in/mashaole-letsoalo-512001230">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#">
@@ -69,7 +69,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mashaoleshaolin0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="#">
