@@ -119,19 +119,15 @@ A desktop application that teaches cybersecurity through conversations, quizzes,
 
 <p align="center">
   <a href="https://github.com/LMS147?tab=overview">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=LMS147&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;hide_border=true&amp;disable_animations=true" />
-      <img src="https://github-stats-extended.vercel.app/api?username=LMS147&amp;show_icons=true&amp;hide_rank=true&amp;theme=default&amp;hide_border=true&amp;disable_animations=true" alt="Mashaole Letsoalo's GitHub activity statistics" width="480" />
-    </picture>
+    <img src="https://github-stats-extended.vercel.app/api?username=LMS147&amp;custom_title=Mashaole%27s+Stats&amp;show_icons=true&amp;rank_icon=github&amp;include_all_commits=true&amp;show=prs_merged_percentage%2Creviews&amp;number_format=long&amp;bg_color=373f4f&amp;title_color=e87853&amp;text_color=efc79c&amp;icon_color=e9b653&amp;ring_color=ce886c&amp;border_color=d8dee9&amp;hide_border=false&amp;disable_animations=true&amp;card_width=495" alt="Mashaole's GitHub stats, including commits, pull requests, merged pull request percentage, and reviews" width="495" />
   </a>
 </p>
 
+### Most used languages
+
 <p align="center">
   <a href="https://github.com/LMS147?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=LMS147&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=true" />
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LMS147&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true" alt="Languages used across Mashaole Letsoalo's public repositories" width="360" />
-    </picture>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LMS147&amp;layout=normal&amp;langs_count=6&amp;card_width=300&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;border_color=30363d&amp;prog_bar_bg_color=d8d8d8&amp;hide_border=false&amp;disable_animations=true" alt="Most used languages across Mashaole's public repositories, displayed as horizontal progress bars" width="300" />
   </a>
 </p>
 
