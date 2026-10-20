@@ -115,6 +115,30 @@ A desktop application that teaches cybersecurity through conversations, quizzes,
 
 **Stack:** C#, WPF, XAML, .NET Framework.
 
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/LMS147?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=LMS147&amp;show_icons=true&amp;hide_rank=true&amp;theme=github_dark&amp;hide_border=true&amp;disable_animations=true" />
+      <img src="https://github-stats-extended.vercel.app/api?username=LMS147&amp;show_icons=true&amp;hide_rank=true&amp;theme=default&amp;hide_border=true&amp;disable_animations=true" alt="Mashaole Letsoalo's GitHub activity statistics" width="480" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LMS147?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=LMS147&amp;layout=compact&amp;langs_count=6&amp;theme=github_dark&amp;hide_border=true" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=LMS147&amp;layout=compact&amp;langs_count=6&amp;theme=default&amp;hide_border=true" alt="Languages used across Mashaole Letsoalo's public repositories" width="360" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Language usage reflects public repository code, not proficiency.</sub>
+</p>
+
 ## What I'm exploring
 
 ### 🤖 Atlas — a personal AI assistant
@@ -132,3 +156,4 @@ I've set up a **Samsung Galaxy A12 with Termux** as a personal server environmen
   Especially interested in C#/.NET, backend, and software development roles.<br /><br />
   <a href="mailto:mashaoleshaolin0@gmail.com">Let's connect</a>
 </p>
+
