@@ -1,83 +1,134 @@
 <h1 align="center">Hi, I'm Mashaole Letsoalo 👋</h1>
 
 <p align="center">
-  Aspiring Software Developer | C# & .NET Enthusiast | Java | Databases | Problem Solver
+  <strong>Software Developer · C# &amp; ASP.NET Core · Backend Development</strong>
 </p>
 
 <p align="center">
-  I am a motivated software development student with hands-on experience in building
-  desktop applications, APIs, and database-driven systems. I enjoy turning ideas into
-  practical solutions, learning modern development practices, and continuously improving
-  my technical depth across the full application stack.
+  Based in Pretoria, South Africa 🇿🇦<br />
+  Co-founder &amp; Backend Developer at Zyma Systems · Software Development Student
+</p>
+
+<p align="center">
+  <a href="https://github.com/LMS147">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/mashaole-letsoalo">LinkedIn</a> ·
+  <a href="mailto:mashaoleshaolin0@gmail.com">Email</a>
 </p>
 
 ---
 
-<h2 align="center">🧠 What I’m Good At</h2>
+## About me
 
-<ul>
-  <li>Building <strong>C# and .NET</strong> applications (Console, WPF, ASP.NET Core)</li>
-  <li>Object-Oriented Programming using <strong>Java</strong> and <strong>C#</strong></li>
-  <li>Working with <strong>relational and NoSQL databases</strong></li>
-  <li>Designing clean, structured application logic</li>
-  <li>Problem-solving and algorithmic thinking</li>
-  <li>Version control and collaboration using <strong>Git</strong></li>
-</ul>
+I'm a software developer completing a Diploma in Information Technology (Software Development) at IIE Rosebank College. At **Zyma Systems**, I work on backend services, RESTful APIs, database structures, and business logic for client applications.
 
----
+My main stack is **C#, ASP.NET Core, Entity Framework Core, and SQL Server**. I also build Android applications with Kotlin and desktop applications with WPF. I enjoy figuring out how an application works from its interface through to its data storage—and getting it running outside my development environment.
 
-<h2 align="center">🚀 Technologies & Tools</h2>
+My long-term focus is **backend development, application security, and DevOps**. I'm also exploring personal AI assistants and self-hosting through hands-on projects.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="55" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="55" alt="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="55" alt="IntelliJ IDEA" />
-</div>
+## What I work on
 
----
+- **Backend services:** RESTful APIs, business logic, authentication, and role-based access control.
+- **Data:** Relational database design and application data access with Entity Framework Core.
+- **Web applications:** ASP.NET Core MVC applications, including claims management and reporting.
+- **Android and desktop applications:** Kotlin, Room, MVVM, and C# with WPF/XAML.
+- **Delivery and collaboration:** Working with clients and frontend developers on requirements, deployment, and application maintenance.
 
-<h2 align="center">📚 Currently Focused On</h2>
+## Technologies and tools
 
-<ul>
-  <li>Advanced <strong>.NET & ASP.NET Core</strong> development</li>
-  <li>Data structures and algorithms</li>
-  <li>Backend development and APIs</li>
-  <li>Improving software design and architecture skills</li>
-</ul>
+<h3 align="center">Languages</h3>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" alt="C#" title="C#" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java" title="Java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" title="Kotlin" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" height="55" alt="PHP" title="PHP" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" title="Python" />&nbsp;&nbsp;
+  <br /><br />
+  C# · Java · Kotlin · JavaScript · PHP · Python
+</p>
 
-<h2 align="center">🔗 Connect With Me</h2>
+<h3 align="center">Web, mobile and .NET</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mashaole-letsoalo" target="https://www.linkedin.com/in/mashaole-letsoalo-512001230">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="mailto:mashaoleshaolin0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="55" height="55" alt=".NET" title=".NET" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="55" height="55" alt="Android" title="Android" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="55" height="55" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
+  <br /><br />
+  .NET · HTML5 · CSS3 · Android · Firebase
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="55" height="55" alt="SQL Server" title="SQL Server" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="55" alt="Oracle" title="Oracle" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
+  <br /><br />
+  SQL Server · PostgreSQL · Oracle · MongoDB
+</p>
+
+<h3 align="center">Development tools</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="55" height="55" alt="Visual Studio" title="Visual Studio" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" alt="Android Studio" title="Android Studio" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" height="55" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;&nbsp;
+  <br /><br />
+  Git · Visual Studio · VS Code · Android Studio · IntelliJ IDEA
+</p>
+
+**Frameworks and libraries:** ASP.NET Core, Entity Framework Core, WPF, XAML, and Room.
+
+**Personal server tools:** Termux, OpenSSH, SFTP, and Cloudflare Tunnel.
+
+**Currently developing my skills in:** Python, Linux and shell scripting, automated testing, CI/CD, and secure application design.
+
+## Selected projects
+
+### 🚚 Marcus Logistics System
+
+Client work at **Zyma Systems**: backend services and RESTful APIs for a transportation platform supporting ride booking, parcel delivery, tracking, and role-based access.
+
+**Stack:** C#, ASP.NET Core, Entity Framework Core, SQL Server.
+
+### 📄 [Contract Monthly Claim System](https://github.com/LMS147/Contract-Monthly-Claim-System-)
+
+A web application for managing monthly contract claims, with manager and user roles, authentication, claim CRUD operations, and Excel/PDF exports.
+
+**Stack:** ASP.NET Core MVC, C#, ASP.NET Core Identity, Entity Framework Core, SQL Server.
+
+### 💰 [FinTrack Pro](https://github.com/LMS147/FinTrack_Pro)
+
+An Android personal finance application with expense tracking, budgets, receipt attachments, shared wallets, and dashboard charts.
+
+**Stack:** Kotlin, Android XML, Room, MVVM, MPAndroidChart.
+
+### 🛡️ [Cybersecurity Awareness Chatbot](https://github.com/LMS147/Cybersecurity_Awareness_Chatbot)
+
+A desktop application that teaches cybersecurity through conversations, quizzes, and practical tasks. Its response logic uses Levenshtein fuzzy matching, keyword matching, and custom sentiment detection.
+
+**Stack:** C#, WPF, XAML, .NET Framework.
+
+## What I'm exploring
+
+### 🤖 Atlas — a personal AI assistant
+
+I'm developing a Python-based Telegram assistant with file-based memory. My goal is to host it on my own server and build a better understanding of LLM integration, memory, and application deployment along the way.
+
+### 📱 An old phone as a home server
+
+I've set up a **Samsung Galaxy A12 with Termux** as a personal server environment. I use SSH/SFTP for local access and file transfers, and Cloudflare Tunnel for remote access. It's a practical way to learn about networking, hosting, and running my own services.
 
 ---
 
 <p align="center">
-  <em>Open to internships, graduate programs, junior developer roles, and mentorship opportunities.</em>
+  <strong>Open to internships, graduate programmes, and junior developer opportunities.</strong><br />
+  Especially interested in C#/.NET, backend, and software development roles.<br /><br />
+  <a href="mailto:mashaoleshaolin0@gmail.com">Let's connect</a>
 </p>
